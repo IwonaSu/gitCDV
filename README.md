@@ -2,14 +2,14 @@
 
 Best Linux commands from 05.10.2019:
 
-[ls](prints a list of files)
+[ls] (prints a list of files)
 
-[cd](goes up)
+[cd] (goes up)
 
-[sudo apt install git](installs git)
+[sudo apt install git] (installs git)
 
-[sudo apt install python3](installs Python 3)
+[sudo apt install python3] (installs Python 3)
 
-[mkdir](creates new folder)
+[mkdir] (creates new folder)
 
-[rmdir](deletes an empty folder)
+[rmdir] (deletes an empty folder)
